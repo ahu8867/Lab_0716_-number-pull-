@@ -1,0 +1,9 @@
+C:\Users\ahu1\Desktop\queuing\queuing\bin\Debug\queuing.exe.config
+C:\Users\ahu1\Desktop\queuing\queuing\bin\Debug\queuing.exe
+C:\Users\ahu1\Desktop\queuing\queuing\bin\Debug\queuing.pdb
+C:\Users\ahu1\Desktop\queuing\queuing\obj\Debug\queuing.csprojResolveAssemblyReference.cache
+C:\Users\ahu1\Desktop\queuing\queuing\obj\Debug\queuing.Form1.resources
+C:\Users\ahu1\Desktop\queuing\queuing\obj\Debug\queuing.Properties.Resources.resources
+C:\Users\ahu1\Desktop\queuing\queuing\obj\Debug\queuing.csproj.GenerateResource.Cache
+C:\Users\ahu1\Desktop\queuing\queuing\obj\Debug\queuing.exe
+C:\Users\ahu1\Desktop\queuing\queuing\obj\Debug\queuing.pdb
